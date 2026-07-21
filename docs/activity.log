@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-07-19T13:28:57Z
-Entry: fix: handle edge case when incoming data payload is empty
-Sequence: 77/110
+Last updated: 2026-07-21T14:23:17Z
+Entry: docs: document configuration parameters and environment variables
+Sequence: 78/110
