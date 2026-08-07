@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-06T11:40:13Z
-Entry: test: expand integration test cases for API client
-Sequence: 89/110
+Last updated: 2026-08-07T20:16:26Z
+Entry: feat: add structured logging and telemetry events
+Sequence: 90/110
